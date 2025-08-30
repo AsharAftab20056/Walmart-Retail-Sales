@@ -99,12 +99,12 @@ This project demonstrates how **time series analysis** can uncover patterns in r
 (You can add plots here, e.g., seasonal trends, decomposition, and forecasts. Place them in a `Pics/` folder and reference them like below.)  
 
 ![Seasonal Pattern](Pics/seasonal_pattern.PNG)  
-![Trend Analysis](Pics/trend_analysis.PNG)  
+![Trend Analysis](Pics/trend_Analysis.PNG)  
 
 ---
 
 ## 🚀 How to Run the Project  
-1. Clone this repository  
+1. Clone this repository https://github.com/AsharAftab20056/Walmart-Retail-Sales  
 2. Install dependencies:  
    ```bash
    pip install pandas matplotlib statsmodels
@@ -126,3 +126,4 @@ Feel free to fork, improve, and give credit where due.
 ---
 
 > If you found this project useful or insightful, consider giving it a ⭐ on GitHub!
+
